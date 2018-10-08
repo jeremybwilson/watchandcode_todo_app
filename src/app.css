@@ -1,0 +1,10 @@
+div {
+    background-color:#99cc00;
+    border: 1px solid black;
+    color: #FFF;
+    padding:10px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.deleteButton {
+  margin-left: 5px;
+}
